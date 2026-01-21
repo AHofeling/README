@@ -1,12 +1,12 @@
 # Hey, I'm Andrew 👋
 
-**Security Researcher | Infrastructure Lab Architect | Building & Breaking in Public**
+**Penetration Tester | Security Researcher | Infrastructure Lab Architect | Building & Breaking in Public**
 
 I architect, exploit, and document enterprise-grade infrastructure labs — then turn those lessons into **technical deep-dives, automation tools, and defense strategies**.
 
 ---
 
-## 🧪 Main ProjectS (WIP)
+## 🧪 Main Projects (WIP)
 
 ### **👉 Hybrid Malware Research, Deployment & Purple Team Lab**
 I am currently rebuilding my homelab on new hardware to consolidate three primary functions:
