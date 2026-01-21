@@ -8,7 +8,7 @@ I architect, exploit, and document enterprise-grade infrastructure labs — then
 
 ## 🧪 Main ProjectS (WIP)
 
-###**👉 Hybrid Malware Research, Deployment & Purple Team Lab**
+### **👉 Hybrid Malware Research, Deployment & Purple Team Lab**
 I am currently rebuilding my homelab on new hardware to consolidate three primary functions:
 
 * **Malware Analysis & Detonation:** Safe execution and behavioral tracking of live samples within isolated environments.
