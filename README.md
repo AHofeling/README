@@ -33,7 +33,8 @@ I am currently researching and documenting a transition from **Qubes OS** to a *
 
 ## 📌 Featured Repos
 
-* **[HARD_device_attack](https://github.com/Ondrik8/HARD_device_attack)** — A massive repository of hardware and radio exploitation resources. It covers **4G/5G cellular hijacking**, **SS7/Telecom vulnerabilities**, **CAN-Bus car hacking**, and **IoT/Firmware reverse engineering**. It serves as a core technical reference for my research into hardware-level attack surfaces.* **[OPSEC-OSINT-Tools](https://github.com/airborne-commando/OPSEC-OSINT-Tools)** — Tools for operational security and open-source intelligence, supporting my work in identifying **attacker-controlled infrastructure**.
+* **[HARD_device_attack](https://github.com/Ondrik8/HARD_device_attack)** — A massive repository of hardware and radio exploitation resources. It covers **4G/5G cellular hijacking**, **SS7/Telecom vulnerabilities**, **CAN-Bus car hacking**, and **IoT/Firmware reverse engineering**. It serves as a core technical reference for my research into hardware-level attack surfaces.*
+* **[OPSEC-OSINT-Tools](https://github.com/airborne-commando/OPSEC-OSINT-Tools)** — Tools for operational security and open-source intelligence, supporting my work in identifying **attacker-controlled infrastructure**.
 * **[theZoo](https://github.com/ytisf/theZoo)** — A repository of live malware; utilized for detonation and analysis within my custom **malware analysis lab environment**.
 
 ---
